@@ -33,6 +33,21 @@ The solution consists of several components:
 
 <img width="715" alt="Screenshot 2024-11-05 at 2 27 54 PM" src="https://github.com/user-attachments/assets/b3813437-6a61-4050-9cae-a79d3e92e39b">
 
+## Setup Instructions
 
+### 1. Install Conda
 
+Ensure you have Conda installed on your system. You can download it from the [Anaconda website](https://www.anaconda.com/products/distribution).
 
+### 2. Create and Activate the Environment
+
+Create a Conda environment using the provided `environment.yml` file:
+
+```bash
+conda env create -f environment.yml
+```
+
+### Activate the environment:
+```bash
+python src/card_detector.py
+```
