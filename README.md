@@ -53,4 +53,3 @@ python src/card_detector.py
 ```
 
 <img width="1267" alt="Screenshot 2024-11-05 at 3 11 23 PM" src="https://github.com/user-attachments/assets/98a9ad7a-555d-412e-8f91-0506582a997b">
-
