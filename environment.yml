@@ -1,0 +1,4 @@
+name: test
+channels:
+  - defaults
+prefix: /home/drovco/miniconda3/envs/test
